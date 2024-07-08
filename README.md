@@ -1,4 +1,4 @@
-![Think twice Code Once](GithubBanner.jpg)
+![Think twice Code Once](https://raw.githubusercontent.com/RojoPedro/RojoPedro/7b1e0b6364558bc327bb5086d2d4771479fd9436/BannerGithub.jpg)
 # Hi there, I'm Pedro - aka Pe Drowzee 👋
 
 ## **I'm a Junior Developer!**
