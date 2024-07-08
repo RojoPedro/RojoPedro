@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Pedro - aka Pe Drowzee 👋
 
-<!--
-**RojoPedro/RojoPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **I'm a Game Developer!**
+___
+- 🔭 I’m currently working on Living Paintings (Unity AR).
+- 🌱 I’m currently learning Web Frontend Development.
+- 💼 I'm currently working at [Bigrock](https://www.bigrock.it/?gad_source=1&gclid=EAIaIQobChMIl5Sz0YuXhwMVjahoCR28NAGXEAAYASAAEgIi4PD_BwE) (Venice, Italy)
+- 🥅 2024 Goals: Deploy my first website to help freinds in common tasks.
 
-Here are some ideas to get you started:
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?cs,html,css,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Softwares:
+[![My Skills](https://skillicons.dev/icons?unity,unreal,vscode)](https://skillicons.dev)
