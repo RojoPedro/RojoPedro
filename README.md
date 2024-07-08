@@ -14,4 +14,4 @@ ___
 ### Softwares:
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RojoPedro&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RojoPedro&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
