@@ -1,4 +1,5 @@
-## Hi there, I'm Pedro - aka Pe Drowzee 👋
+![Think twice Code Once](relative/path/in/repository/to/image.svg)
+# Hi there, I'm Pedro - aka Pe Drowzee 👋
 
 ### **I'm a Game Developer!**
 ___
