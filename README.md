@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js)](https://skillicons.dev)
 
 ### Frameworks:
-Coming soon...
+*Coming soon...*
 
 ### Softwares:
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode)](https://skillicons.dev)
