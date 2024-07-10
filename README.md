@@ -9,7 +9,7 @@
 - 🥅 2024 Goals: Deploy my first website to help freinds in common tasks.
 
 ### Languages:
-[![My Skills](https://skillicons.dev/icons?i=cs,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,html,css,js)](https://skillicons.dev)
 
 ### Frameworks:
 *Coming soon...*
