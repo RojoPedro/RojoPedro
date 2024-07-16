@@ -18,3 +18,6 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,vscode)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RojoPedro&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+
+### Certificates:
+![Think twice Code Once]([https://raw.githubusercontent.com/RojoPedro/RojoPedro/7b1e0b6364558bc327bb5086d2d4771479fd9436/BannerGithub.jpg](https://github.com/RojoPedro/RojoPedro/blob/main/PedroCSS_%20Codecademy.pdf))
