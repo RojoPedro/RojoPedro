@@ -1,7 +1,7 @@
 ![Think twice Code Once](https://raw.githubusercontent.com/RojoPedro/RojoPedro/7b1e0b6364558bc327bb5086d2d4771479fd9436/BannerGithub.jpg)
 # Hi there, I'm Pedro - aka Pe Drowzee 👋
 
-## **I'm a Junior Developer!**
+## **I'm a Developer - Currently Teaching at BigrockSchool**
 
 ### - 🔭 I’m currently working on Live Paintings (Unity AR).
 ### - 🌱 I’m currently learning Frontend Web Development.
