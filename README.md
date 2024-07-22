@@ -7,6 +7,9 @@
  - 💼 I'm currently working at [Bigrock](https://www.bigrock.it/?gad_source=1&gclid=EAIaIQobChMIl5Sz0YuXhwMVjahoCR28NAGXEAAYASAAEgIi4PD_BwE) (Venice, Italy)
  - 🥅 2024 Goals: Deploy my first portfolio-ready website.
 
+Frontend progress:
+![](https://geps.dev/progress/70)
+
 ![LineBreak](https://camo.githubusercontent.com/ace7effc2b35cda2c66d5952869af563e851f89e5e1af029cfc9f69c7bebe78d/68747470733a2f2f692e696d6775722e636f6d2f77617856496d762e706e67)
 
 # Languages:
