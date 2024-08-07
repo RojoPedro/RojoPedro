@@ -5,7 +5,7 @@
  - 🔭 I’m currently working on Live Paintings (Unity AR).
  - 🌱 I’m currently learning Frontend Web Development.
  - 💼 I'm currently working at [Bigrock](https://www.bigrock.it/?gad_source=1&gclid=EAIaIQobChMIl5Sz0YuXhwMVjahoCR28NAGXEAAYASAAEgIi4PD_BwE) (Venice, Italy)
- - 🥅 2024 Goals: Deploy my first portfolio-ready website.
+ - 🥅 2024 Goals: Become an Unreal Authorized Instructor.
 
 Frontend progress:
 ![](https://geps.dev/progress/70)
