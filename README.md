@@ -12,7 +12,7 @@
 # Languages:
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,html,css,js)](https://skillicons.dev)
 <br/>
-# Softwares:
+# Best Friends:
 [![My Skills](https://skillicons.dev/icons?i=unreal,unity,vscode,aws)](https://skillicons.dev)
 <br/>
 # Frameworks:
