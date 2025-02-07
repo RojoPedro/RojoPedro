@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,html,css,js)](https://skillicons.dev)
 <br/>
 # Softwares:
-[![My Skills](https://skillicons.dev/icons?i=unreal,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity,vscode,aws)](https://skillicons.dev)
 <br/>
 # Frameworks:
 *Coming soon...*
