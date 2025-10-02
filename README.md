@@ -5,7 +5,7 @@
  - 🔭 I’m currently working on Enemy AI (Unreal 5.5, Blackboards).
  - 🌱 I’m currently deep-diving in C++.
  - 💼 I'm currently working at [Bigrock](https://www.bigrock.it/?gad_source=1&gclid=EAIaIQobChMIl5Sz0YuXhwMVjahoCR28NAGXEAAYASAAEgIi4PD_BwE) (Venice, Italy)
- - 🥅 2024 Goals: Become an Unreal Authorized Instructor.
+ - 🥅 2025 Goals: Master Data Oriented tech.
 
 ***
 
