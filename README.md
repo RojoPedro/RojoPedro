@@ -4,8 +4,8 @@
 
 **Software Developer & Tech Instructor** based in Venice, Italy — building across **Full-Stack Web**, **AI Tooling**, **Backend/Desktop**, **Game Dev** and **Embedded Systems**.
 
-- 💼 Teaching & mentoring software and game development at [BigRock](https://www.bigrock.it)
-- 🛠️ Building full-stack web apps, AI-assisted workflows, REST APIs, and desktop/embedded tools
+- 💼 Teaching & mentoring software and game development at [Forel](https://www.forelspa.com)
+- 🛠️ Building full-stack apps, AI-assisted workflows, REST APIs, and desktop/embedded tools
 - 🌐 Portfolio: [rojopedro.github.io/developerFolio](https://rojopedro.github.io/developerFolio)
 - 🔗 LinkedIn: [Pedro Rojo](https://www.linkedin.com/in/pedro-rojo-621962186/)
 
