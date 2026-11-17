@@ -1,22 +1,23 @@
 ![Think twice Code Once](https://raw.githubusercontent.com/RojoPedro/RojoPedro/7b1e0b6364558bc327bb5086d2d4771479fd9436/BannerGithub.jpg)
-# Hi there, I'm Pedro - aka Pe Drowzee 👋
 
-## **Developer and Teacher - Mixed tech stack**
- - 🔭 I’m currently working on my Frontend Portfolio.
- - 🌱 I’m currently deep-diving in React.
- - 💼 I'm currently working at [Bigrock](https://www.bigrock.it/?gad_source=1&gclid=EAIaIQobChMIl5Sz0YuXhwMVjahoCR28NAGXEAAYASAAEgIi4PD_BwE) (Venice, Italy)
- - 🥅 2025 Goals: Master Data Oriented tech.
+# Hi there, I'm Pedro 👋
 
-***
+**Software Developer & Tech Instructor** based in Venice, Italy — building across **Full-Stack Web**, **AI Tooling**, **Backend/Desktop**, **Game Dev** and **Embedded Systems**.
 
-# Languages:
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,html,css,js)](https://skillicons.dev)
-<br/>
-# Best Friends:
-[![My Skills](https://skillicons.dev/icons?i=unreal,unity,vscode,aws)](https://skillicons.dev)
-<br/>
-# Frameworks:
-*Coming soon...*
-<br/>
-<br/>
-***
+- 💼 Teaching & mentoring software and game development at [BigRock](https://www.bigrock.it)
+- 🛠️ Building full-stack web apps, AI-assisted workflows, REST APIs, and desktop/embedded tools
+- 🌐 Portfolio: [rojopedro.github.io/developerFolio](https://rojopedro.github.io/developerFolio)
+- 🔗 LinkedIn: [Pedro Rojo](https://www.linkedin.com/in/pedro-rojo-621962186/)
+
+---
+
+### Tech Stack
+
+**Web & Mobile**  
+[![Web & Mobile](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,supabase)](https://skillicons.dev)
+
+**Backend, Desktop & Systems**  
+[![Backend & Systems](https://skillicons.dev/icons?i=cs,cpp,python,php,laravel,java,spring,postgres)](https://skillicons.dev)
+
+**Real-Time 3D, Embedded & DevOps**  
+[![3D, Embedded & Tools](https://skillicons.dev/icons?i=unreal,unity,arduino,docker,aws,git,vscode)](https://skillicons.dev)
