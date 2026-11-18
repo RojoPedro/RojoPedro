@@ -2,7 +2,7 @@
 
 # Hi there, I'm Pedro 👋
 
-**Technology agnostic Software Developer & Instructor** based in Venice, Italy - building across **Full-Stack Web**, **AI Tooling**, **Backend/Desktop**, **Game Dev** and more.**
+**Technology agnostic Software Developer & Instructor** based in Venice, Italy - building across **Full-Stack Web**, **AI Tooling**, **Backend/Desktop**, **Game Dev** and more.
 
 - 💼 Software Engineer working at [Forel](https://www.forelspa.com)
 - 🛠️ Building full-stack apps, AI-assisted workflows, REST APIs, and desktop/embedded tools
